@@ -1,5 +1,5 @@
 ﻿while ($true) {
     Clear-Host
-    get-item "E:\webmd\apps\messageboards\winsvc\logs\WebMD.MessageBoard.Service.log" 
+    get-item "C:\logs.txt" 
     Start-Sleep -Seconds 3
 } 
